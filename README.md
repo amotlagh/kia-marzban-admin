@@ -1,6 +1,6 @@
 ## Install && Manage
 ```
-bash <(curl -Ls https://raw.githubusercontent.com/Real-kia/kia-marzban-admin/main/install.sh)
+bash <(curl -Ls https://raw.githubusercontent.com/amotlagh/kia-marzban-admin/main/install.sh)
 
 ```
 
